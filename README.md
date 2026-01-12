@@ -65,4 +65,5 @@ This dashboard enables executives to:
 - Track revenue growth trends over time
 - Support strategic planning with data-backed insights
 
-## Tableau Public Link: 
+## Tableau Public Link
+- **View Dashboard:** https://public.tableau.com/app/profile/pujitha.ithamraju8661/viz/ExecutiveDashboard_17680359488140/Dashboard1
